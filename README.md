@@ -1,4 +1,4 @@
-# vue_cli3
+# vue2 cesium 基础项目
 
 项目环境：vue2 + js + vue_cli3 + node.js@16.13.0 + Cesium1.99
 ## Project setup
